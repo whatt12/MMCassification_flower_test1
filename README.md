@@ -1,0 +1,2 @@
+# MMCassification_flower_test1
+OpenMMlab第一次作业，基础作业，使用 MMClassification 训练花卉图片分类模型
